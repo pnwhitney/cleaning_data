@@ -1,3 +1,10 @@
+---
+title: "run_analysis.md"
+author: "Peter Whitney"
+date: "Saturday, June 20, 2015"
+output: html_document
+---
+
 **run_analysis.R**
 ==================
 The enclosed implementation of run_analysis.R contains a top level
