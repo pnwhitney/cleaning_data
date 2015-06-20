@@ -12,17 +12,17 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
 **Transformations**
-===================
+-------------------
 No Transformations were made. Data was joined and merged from a variety of the files found in the above referenced data set.
 
 **Output data fields**
-===================
+----------------------
 The following is a list of fields found in the output data set.
 In all instances the original name of the column was retained in
 order to stay as close as possible to the original name of the column.
 We only added "mean_of_" to each field in order to designate it correct
 current meaning.
-===================
+----------------
 activity_group 
 subject_group 
 mean_of_tBodyAcc-mean()-X 
